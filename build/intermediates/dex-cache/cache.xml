@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_fc2874739eb1904d99cebf537836493843d8bef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e91a2a143a9e56d4fd99e07ebf407e3a513f811a">
+        <dex dex="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_55914fa974978ae19d81003be27976bf0fb61018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_fd3b3adc5560953cc692c686b2ca121b516dbdff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_54867ef88adf6dfd8e33d24dff2f724f66aa17aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_b2fdf19d3ed42017489b8bd8c307f45326baeca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_1ab2bd287a82aec742c0c8b2925ad6962a1e3e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="efe45691ce0aee28067ae8a93bad12ac6b54f548">
+        <dex dex="C:\Users\cakraklio\MyAndroidProjects\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a5aa49d229af88a182922b8f2c4b64a74407e0b1\classes.dex" />
+    </item>
+
+</items>
